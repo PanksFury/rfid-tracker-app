@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1093064206773",
+    "project_id": "sunlit-enterprice-train-rfid",
+    "storage_bucket": "sunlit-enterprice-train-rfid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093064206773:android:428d93705110aee964d1fc",
+        "android_client_info": {
+          "package_name": "com.indianappinnovations.trainrfidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093064206773-557sgs2sjn5duvdg75mcqksavom87jeg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indianappinnovations.trainrfidapp",
+            "certificate_hash": "98c447ecc05a304f14597da3f4e559a24c6c2de0"
+          }
+        },
+        {
+          "client_id": "1093064206773-83t01t66c6j2a3co1bjip3t1fvm57qvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indianappinnovations.trainrfidapp",
+            "certificate_hash": "ad6042c3454dc528dd0e1dc97b6ea1c8ea63d8e1"
+          }
+        },
+        {
+          "client_id": "1093064206773-trj45l2jdmh0ldh065otlh6qg4nahvgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABPlrGT9BqvUIRbXHoTF32q5cJQ94dAkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093064206773-trj45l2jdmh0ldh065otlh6qg4nahvgu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1093064206773-kv5fbcvrvs0vb00ji6ikg3h9aifcrrjl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trainrsid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
